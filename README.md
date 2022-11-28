@@ -7,7 +7,9 @@ Here is the outcome of my bot_counter.py file:
 
 Additionally, I created a `bot_submissions.py` file with more than 200 submissions, which is worth two extra points. I also created the `bot_vote.py` file to have my bot downvote any comment or submission that mentions Trump. I also used the textblob sentiment analysis library to determine the sentiment of all the posts that mention my least favorite candidate and overall had more than 100 submissions. This is worth 4 points in total.
 
-This is my favorite thread involving my bot because you can see that it is interacting with itself and at the same time each comment complements the other. You can see a screenshot of this interaction here:
+This is my favorite thread involving my bot because you can see that it is interacting with itself and at the same time each comment complements the other. This is the [link](https://www.reddit.com/r/cs40_2022fall/comments/ywdc19/comment/ixe21jg/?utm_source=share&utm_medium=web2x&context=3) to comment one and this is the [link](https://www.reddit.com/r/cs40_2022fall/comments/ywdc19/comment/ixc10lx/?utm_source=share&utm_medium=web2x&context=3) to comment two of the thread.
+
+You can see a screenshot of this interaction here:
  
 ![Screenshot (591)](https://user-images.githubusercontent.com/112522590/204194070-85e86c78-ace3-45c2-b462-78c48ab7dee5.png)
 
